@@ -227,6 +227,7 @@ function App() {
                 />
                 <Divider>
                     <a
+                        rel="noopener noreferrer"
                         target="_blank"
                         href="http://sout.com.ar/">
                         sout.com.ar

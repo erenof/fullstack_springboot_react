@@ -221,9 +221,8 @@ function App() {
             <Footer style={{ textAlign: 'center' }}>
                 <Image
                     preview={false}
-                    with={75}
-                    height={75}
-                    // Cambie el logo
+                    with={50}
+                    height={50}
                     src="https://user-images.githubusercontent.com/86127062/210868722-0bf3a1a5-ce9d-42c5-af8e-ec20f77bed88.png"
                 />
                 <Divider>

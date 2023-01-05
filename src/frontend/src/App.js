@@ -1,12 +1,12 @@
 import { useState, useEffect } from 'react'
 import {deleteStudent, getAllStudents} from "./client";
-import {Layout, Menu, Breadcrumb, Table, Spin, Empty, Button, Badge, Tag, Avatar, Radio, Popconfirm, Image} from 'antd';
+import {Layout, Menu, Breadcrumb, Table, Spin, Empty, Button, Badge, Tag, Avatar, Popconfirm, Image} from 'antd';
 import {
     DesktopOutlined,
     PieChartOutlined,
     FileOutlined,
     TeamOutlined,
-    UserOutlined, LoadingOutlined, UserAddOutlined, PlusOutlined, MinusOutlined
+    UserOutlined, LoadingOutlined, UserAddOutlined
 } from '@ant-design/icons';
 
 import StudentDrawerForm from "./StudentDrawerForm";

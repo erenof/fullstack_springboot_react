@@ -223,7 +223,7 @@ function App() {
                     preview={false}
                     with={75}
                     height={75}
-                    src="https://user-images.githubusercontent.com/86127062/210658485-c29d8759-db32-42cc-8d49-ec3ffe296436.png"
+                    src="https://user-images.githubusercontent.com/86127062/210868722-0bf3a1a5-ce9d-42c5-af8e-ec20f77bed88.png"
                 />
                 <Divider>
                     <a

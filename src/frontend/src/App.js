@@ -206,7 +206,9 @@ function App() {
             </Content>
             <Footer style={{ textAlign: 'center' }}>
                 <Image
+                    preview={false}
                     with={75}
+                    height={75}
                     src="https://user-images.githubusercontent.com/86127062/210658485-c29d8759-db32-42cc-8d49-ec3ffe296436.png"
                 />
                 </Footer>
